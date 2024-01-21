@@ -1,4 +1,4 @@
-package com.finance.financetracker;
+package com.foodpanda.fooddelivery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
